@@ -3932,6 +3932,16 @@
        "singer": ["Mohit Chauhan"],
        "genre": ["Romantic","Indian Film Pop"],
        "link": "https://www.youtube.com/watch?v=mt9xg0mmt28"
+    },
+       {
+       "id": 229,
+       "name": "Jogi",
+       "lyrics": "https://www.lyricsbull.com/jogi-shaadi-mein-zaroor-aana/",
+       "album": "Shaado mein zaroor aana",
+       "Duration": "4 min 40 sec",
+       "singer": ["Yasser Desai & Aakanksha Sharma "],
+       "genre": ["Romantic","Indian Film Pop"],
+       "link": "https://www.youtube.com/watch?v=HexFqifusOk"
     }
     
     ]
